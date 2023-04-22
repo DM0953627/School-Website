@@ -1,0 +1,143 @@
+.d,.dd{
+    display: inline-block;
+}
+li{
+    display: inline;
+    padding: 75px;
+}
+.dd{
+    position: absolute;
+    top: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    box-shadow: 5px;
+    border-bottom: 3px solid gray;
+}
+.divv{
+    width: 1272px;
+}
+.tbatbotc{
+    position: absolute;
+    top: 800px;
+    width: 600px;
+    height: 700px;
+    line-height: 30px;
+    margin-left: 650px;
+}
+.tbatbotc p{
+    margin-top: 30px;
+}
+.lll{
+    width: 30px;
+    height: 30px;
+}
+.coding{
+width: 100%;
+height: 550px;
+}
+.ok{
+    position: absolute;
+    top: 680px;
+    width: 300px;
+    height: 250px;
+    margin-left: 25px;
+    color: black;
+}
+.ok1{
+    position: absolute;
+    top: 980px;
+    width: 300px;
+    height: 250px;
+    margin-left: 25px;
+    color: black;
+}
+.ok2{
+    position: absolute;
+    top: 1290px;
+    width: 300px;
+    height: 250px;
+    margin-left: 25px;
+    color: black;
+}
+.Miguel{
+    position: absolute;
+    top: 700px;
+    left: 450px;
+    width: 800px;
+    height: 1300px;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;;
+}
+body{
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;;
+}
+.contact{
+    color: orange;
+}
+.wimp{
+    margin-left: 25px;
+}
+.kid{
+    position: absolute;
+    top: 1700px;
+    left: 100px;
+    color: black;
+}
+.kid1{
+    position: absolute;
+    top: 1760px;
+    left: 100px;
+    color: black;
+}
+.kid2{
+    position: absolute;
+    top: 1827px;
+    left: 100px;
+    color: black;
+}
+.kid3{
+    position: absolute;
+    top: 1895px;
+    left: 100px;
+    color: black;
+}
+.kid4{
+    position: absolute;
+    top: 1785px;
+    left: 100px;
+    color: black;
+}
+.kid5{
+    position: absolute;
+    top: 1850px;
+    left: 100px;
+    color: black;
+}
+.kid6{
+    position: absolute;
+    top: 1915px;
+    left: 100px;
+    color: black;
+}
+.kid7{
+    position: absolute;
+    top: 1983px;
+    left: 100px;
+    color: rgb(0, 0, 0);
+}
+.box1{
+    background-image: url(green.jpeg);
+    width: 350px;
+    margin-left: 150px;
+}
+.box2{
+    background-image: url(green.jpeg);
+    width: 350px;
+    margin-left: 80px;
+}
+.box1,.box2,.sm{
+display: inline-block;
+}
